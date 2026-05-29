@@ -6,3 +6,6 @@ It is up to you how you award merits. They could be awarded for good work, good 
 As of version 1.4 there are limited options to customise the merit cards. This is currently limited to changing the image at the top of the card.
 
 For support please contact me at support@meritcard.co.uk.
+
+PRIVACY
+Merit Card requires no personal details, does not collect any data and does not use any third-party analytics. There is no advertising and no in-app purchases.
