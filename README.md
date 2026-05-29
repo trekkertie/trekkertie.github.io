@@ -3,4 +3,6 @@ MeritCard is a simple app based on a school reward scheme. The app provides colo
 
 It is up to you how you award merits. They could be awarded for good work, good behavious, politeness or anything you reagrd as merit worthy.
 
+As of version 1.4 there are limited options to customise the merit cards. This is currently limited to changing the image at the top of the card.
+
 For support please contact me at support@meritcard.co.uk.
